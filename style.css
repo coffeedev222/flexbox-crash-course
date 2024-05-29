@@ -13,3 +13,13 @@ body {
     color: #333;
     background: #a1c3ff;
 }
+
+img {
+    max-width: 100%;
+
+}
+
+h1,
+h2 {
+    margin-bottom: 15px;
+}
